@@ -1,0 +1,17 @@
+Test,Pass-Fail,Runtime(ns)
+introclassJava.digits_6e464f2b_003BlackboxTest#test1,PASS,96097380
+introclassJava.digits_6e464f2b_003BlackboxTest#test2,FAIL,606873654
+introclassJava.digits_6e464f2b_003BlackboxTest#test3,PASS,111094101
+introclassJava.digits_6e464f2b_003BlackboxTest#test4,PASS,86697702
+introclassJava.digits_6e464f2b_003BlackboxTest#test5,PASS,94430413
+introclassJava.digits_6e464f2b_003BlackboxTest#test6,PASS,549028857
+introclassJava.digits_6e464f2b_003WhiteboxTest#test1,PASS,387528022
+introclassJava.digits_6e464f2b_003WhiteboxTest#test10,PASS,250633987
+introclassJava.digits_6e464f2b_003WhiteboxTest#test2,PASS,66895942
+introclassJava.digits_6e464f2b_003WhiteboxTest#test3,PASS,66788175
+introclassJava.digits_6e464f2b_003WhiteboxTest#test4,PASS,543733733
+introclassJava.digits_6e464f2b_003WhiteboxTest#test5,PASS,129958458
+introclassJava.digits_6e464f2b_003WhiteboxTest#test6,PASS,62509996
+introclassJava.digits_6e464f2b_003WhiteboxTest#test7,PASS,86326078
+introclassJava.digits_6e464f2b_003WhiteboxTest#test8,PASS,462965355
+introclassJava.digits_6e464f2b_003WhiteboxTest#test9,PASS,468041523
